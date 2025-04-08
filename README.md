@@ -1,6 +1,3 @@
-Below is an updated `README.md` file for your GitHub repository, reflecting the correct file structure and details based on your requirements: using Spring Boot for the backend, React for the frontend, Clerk for authentication, and insights from the two YouTube videos ([Video 1](https://youtu.be/3NDNCKjUA1Y) and [Video 2](https://youtu.be/8mapPAaH8_A)). I’ve added emojis for a fun GitHub vibe as requested.
-
----
 
 # Crypto AI Chatbot 🚀💰🤖
 
@@ -171,13 +168,3 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Acknowledgments 🙌
 - Inspired by 🎥 [Build an AI Crypto Chatbot](https://youtu.be/3NDNCKjUA1Y) & 🎥 [AI Chatbot with Node.js and React](https://youtu.be/8mapPAaH8_A)
 - Thanks to OpenAI, CoinGecko, Clerk, and Spring Boot for their awesome tools! 🚀
-
----
-
-### Notes
-- **File Structure**: Corrected to match Spring Boot’s Maven layout (e.g., `src/main/java`) and React’s standard structure, replacing Node.js from the videos.
-- **Spring Boot**: Used instead of Node.js/Express, with Java-based logic for OpenAI and CoinGecko integration.
-- Replace `your-username` and `your-app-name` with your GitHub and Heroku details.
-- This README assumes you’ll implement the backend services and frontend components based on the structure provided. Let me know if you need specific code snippets! 😊
-
-Copy this into your repo’s `README.md` for an emoji-rich, accurate guide!
