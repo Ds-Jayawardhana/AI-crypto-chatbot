@@ -1,10 +1,20 @@
 package com.example.cryptobot.service;
 
 import com.example.cryptobot.response.ApiResponse;
+import org.springframework.stereotype.Service;
 
+
+@Service
 public interface ChatBotService {
 
-    ApiResponse getCoinDetails(String prompt);
+    @Override
+    ApiResponse getCoinDetails(String prompt){
+        return null;
+    }
 
-    String simpleChat(String prompt);
+    @Override
+    String simpleChat(String prompt){
+        
+
+    }
 }
