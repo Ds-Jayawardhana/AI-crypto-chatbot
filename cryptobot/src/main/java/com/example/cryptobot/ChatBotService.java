@@ -2,7 +2,9 @@ package com.example.cryptobot;
 
 import com.example.cryptobot.response.ApiResponse;
 
-public class ChatBotService {
+public interface ChatBotService {
 
-    ApiResponse getCoinDetails(String coinName);
+    ApiResponse getCoinDetails(String prompt);
+
+    String simpleChat(String prompt);
 }
