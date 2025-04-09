@@ -1,4 +1,4 @@
-package com.example.cryptobot;
+package com.example.cryptobot.service;
 
 import com.example.cryptobot.response.ApiResponse;
 
